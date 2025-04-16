@@ -2,7 +2,7 @@
 
 A modern tool to convert Microsoft Word (DOCX) files to Markdown format using Pandoc, with a clean PyQt5 interface.
 
-![DOCX to Markdown Converter](screenshot.png)
+
 
 ## Features
 
